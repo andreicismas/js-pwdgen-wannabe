@@ -2,7 +2,7 @@ var myName =prompt("Il Tuo Nome ");
 console.log( "The First Name " + myName)  ;
           
 var secondName =prompt("Il Tuo Cognome");
-console.log(  "second Name Is"+ secondName);
+console.log(  "Second Name Is"+ secondName);
 
 var color =prompt("Il Tuo Colore");
 console.log( "Favorit Color Is"+ color); 
