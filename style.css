@@ -1,0 +1,8 @@
+.my_container{
+    width: 250px;
+    height: 50px;
+    border: solid 1px grey;
+    border-radius: 3px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
